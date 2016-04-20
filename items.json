@@ -1,50 +1,50 @@
 [
 	{
 	"month":20130101,
-	"count":54
+	"sales":54
 	},
 	{
 	"month":20130201,
-	"count":66
+	"sales":66
 	},
 	{
 	"month":20130301,
-	"count":77
+	"sales":77
 	},
 	{
 	"month":20130401,
-	"count":70
+	"sales":70
 	},
 	{
 	"month":20130501,
-	"count":60
+	"sales":60
 	},
 	{
 	"month":20130601,
-	"count":63
+	"sales":63
 	},
 	{
 	"month":20130701,
-	"count":55
+	"sales":55
 	},
 	{
 	"month":20130801,
-	"count":47
+	"sales":47
 	},
 	{
 	"month":20130901,
-	"count":55
+	"sales":55
 	},
 	{
 	"month":20131001,
-	"count":30
+	"sales":30
 	},
 	{
 	"month":20131101,
-	"count":22
+	"sales":22
 	},
 	{
 	"month":20131201,
-	"count":77
+	"sales":77
 	}
 ]
